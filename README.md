@@ -24,13 +24,11 @@ CHÚ THÍCH:
 
 - Như đã nói ở trên thì code này mục đích chính là học hỏi, nên bạn nào lấy đi phát triển thương mại hay gì bị túm thì mình không chịu trách nhiệm nhé.
 
-- Ai copy code xin ghi nguồn: [Nhockm4v](https://www.facebook.com/nhockm4v)
+- Ai copy code xin ghi nguồn: huanvippt - m4v.me
 
 
 
-DEMO ONLINE: https://taixiu.herokuapp.com/
+
 
 HÌNH ẢNH DEMO:
-![alt text](https://i.imgur.com/3WtlX1l.png)
-![alt text](https://i.imgur.com/XJXS1il.png)
 
